@@ -69,5 +69,5 @@ Example is created with :
 ```
 	$ git clone https://github.com/JulianDbs/Java.git
 	$ cd Java/OOP/Collections/List_Interface_Example/
-	$ java -cp classes/. com.juliandbs.setinterfaceexample.Main
+	$ java -cp classes/. com.juliandbs.listinterfaceexample.Main
 ```
